@@ -6,5 +6,5 @@ export default function () {
     { title: 'Lord of the Rings: the Two Towers' },
     { title: 'Lord of the Rings: the Return of the King' },
     { title: 'The Hobbit' },
-  ],
+  ];
 }

@@ -1,9 +1,9 @@
 {
-  "name": "tinder-react-simple-starter",
+  "name": "tinder-react-app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "repository": "",
+  "repository": "git@github.com:Vanluren/TinderReactApp.git",
   "scripts": {
     "start": "./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
     "lint": "node_modules/eslint/bin/eslint.js ."
